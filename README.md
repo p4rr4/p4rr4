@@ -5,4 +5,4 @@ CS Studend & CTF Player
 -----------------------
 
 * 🌍  I'm based in Spain
-* 🧠  I'm learning Cybersecurity
+* 🧠  I'm interested in Cybersecurity
