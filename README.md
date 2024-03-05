@@ -1,7 +1,7 @@
 Hi 👋 My name is Jesus Parra
 ======================
 
-CS Studend & CTF Player
+CS Student & CTF Player
 -----------------------
 
 * 🌍  I'm based in Spain
